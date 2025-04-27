@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/Gazebo-00B5E2?style=for-the-badge&logo=gazebo&logoColor=white" />
 </div>
 
+---
+
 <!-- 
 ## 📈 GitHub Stats
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=rafiqrana&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqrana&layout=compact&theme=tokyonight" height="180px"/>
-  
 </div>
 -->
