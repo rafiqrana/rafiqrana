@@ -1,12 +1,13 @@
 # 👋 Hi, I'm RAFIQ RANA
 
-### 🤖 Robotics Researcher | Robotics | Computer Vision | Artificial Intelligence
+### 🤖 Roboticist | Robotics, Computer Vision, AI
 
 - 🚀 Dedicated to advancing the development of intelligent robotic systems.
 - 📚 Focused on Robotics, Computer Vision, and AI-driven solutions.
 - 🌐 Visit my personal website: [rafiqrana.com](https://rafiqrana.com)
 - 📬 Reach out to me: md_rafiqul.islam@unsw.edu.au
 - 👁️‍🗨️ ![Profile Views](https://komarev.com/ghpvc/?username=rafiqrana&style=flat-square&color=blue)
+
 ---
 
 ## 🛠️ Technologies & Tools
